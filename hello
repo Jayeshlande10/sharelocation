@@ -1,0 +1,18 @@
+class a
+{
+b0()
+{
+int i=0,j=1;
+int k=i+j;
+}
+bl()
+{
+System.out.println("12");
+}
+a()
+{
+System.out.println("hello world");
+}
+a a1=new a();
+a1.b1();
+}
