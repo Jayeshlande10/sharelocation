@@ -1,0 +1,8 @@
+class a
+{
+a()
+{
+System.out.println("hello world");
+}
+a a1=new a();
+}
