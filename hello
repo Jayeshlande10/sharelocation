@@ -1,5 +1,10 @@
 class a
 {
+b0()
+{
+int i=0,j=1;
+int k=i+j;
+}
 bl()
 {
 System.out.println("12");
